@@ -1,0 +1,119 @@
+[
+  {
+    "id": 13,
+    "name": "Oscar",
+    "species": "Dog",
+    "age": 3,
+    "color": "Black"
+  },
+  {
+    "id": 14,
+    "name": "Nala",
+    "species": "Lion",
+    "age": 5,
+    "color": "Golden"
+  },
+  {
+    "id": 15,
+    "name": "Duke",
+    "species": "Horse",
+    "age": 6,
+    "color": "Brown"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Ginger",
+    "species": "Cat",
+    "age": 4,
+    "color": "Orange"
+  },
+  {
+    "name": "Zebra",
+    "species": "Mammal",
+    "age": 4
+  }
+]
