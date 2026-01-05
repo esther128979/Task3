@@ -1,0 +1,7 @@
+FROM alpine:latest
+RUN apk add --no-cache ffmpeg
+ENTRYPOINT ["ffmpeg"]
+
+
+##מצורף קבצים שעברו המרה עי הקוד
+## דוג לשימוש docker run -v ${PWD}:/apps my-ffmpeg -i /apps/video.mp4 /apps/audio.mp3
